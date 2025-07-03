@@ -17,7 +17,7 @@ A simple command-line dice rolling game built with Python. Roll one or two dice 
 
 # Run the game:
 
-Dice_Rolling Game.py.py
+Dice_Rolling Game.py
 
 # How to Play
 Run the script
